@@ -1,0 +1,41 @@
+#semafor1 {
+	float: left;
+	width: 250px;
+	height: 450px;
+	border: 1px solid black;
+	margin-top: 20px;
+	margin-left: 50px;
+	background-color: black;
+
+}
+
+.boje1 {
+	width: 120px;
+	height: 120px;
+	border: 1px solid black;
+	border-radius: 100px;
+	margin: 13px auto;
+	padding: 5px;
+	background-color: grey;
+}
+
+#semafor2 {
+	float: right;
+	width: 250px;
+	height: 450px;
+	border: 1px solid black;
+	margin-top: 20px;
+	margin-right: 50px;
+	background-color: black;
+
+}
+
+.boje2 {
+	width: 120px;
+	height: 120px;
+	border: 1px solid black;
+	border-radius: 100px;
+	margin: 13px auto;
+	padding: 5px;
+	background-color: grey;
+}
